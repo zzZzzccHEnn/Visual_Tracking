@@ -2,8 +2,8 @@
 Authors: Zijie cHEn (zijie-chen.20@ucl.ac.uk)
 
 ## Reconstruction Demo
-https://www.youtube.com/watch?v=nMixcgJxV2o
-[![Watch the video](https://img.youtube.com/vi/T-D1KVIuvjA/maxresdefault.jpg)](https://youtu.be/T-D1KVIuvjA)
+
+[![Watch the video](https://img.youtube.com/vi/nMixcgJxV2o/maxresdefault.jpg)](https://www.youtube.com/watch?v=nMixcgJxV2o)
 
 ## Marker Tracking Demo
 https://www.youtube.com/watch?v=maO1CZeALh8
