@@ -19,7 +19,8 @@ https://github.com/kefhuang/mycobot_ros
 ## OpenCV
 https://docs.opencv.org/4.8.0/
 
-
+## Pymycobot
+https://github.com/elephantrobotics/pymycobot
 
 
 
