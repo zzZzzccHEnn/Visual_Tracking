@@ -12,6 +12,8 @@ Authors: Zijie cHEn (zijie-chen.20@ucl.ac.uk)
 ## Hand-eye Calibration Flowchart
 <img width="600" alt="Screenshot 2023-03-29 132056" src="Flow_Chart.png">
 
+<img width="600" alt="Screenshot 2023-03-29 132056" src="closed_loop.png">
+
 ## Elephant Robot
 https://github.com/elephantrobotics/mycobot_ros
 
