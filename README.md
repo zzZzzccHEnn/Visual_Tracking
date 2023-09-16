@@ -1,5 +1,5 @@
 ## Visual_Tracking
-Authors: Zijie cHEn (zijie-chen.20@ucl.ac.uk)
+Authors: Zijie cHEn (zijie-chen.20@ucl.ac.uk)(ideachen88@gmail.com)
 
 ## Reconstruction Demo
 (click the picture to watch the video)
